@@ -1,7 +1,10 @@
 [project]
 name = "the-corner-companion"
 version = "0.1.0"
-description = "Add your description here"
+description = "A gentle AI companion for emotional support and finding joy in daily life"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "gradio>=4.0.0",
+    "requests>=2.31.0",
+]
