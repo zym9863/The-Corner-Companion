@@ -8,7 +8,7 @@ sdk_version: 5.42.0
 app_file: app.py
 pinned: false
 license: mit
-short_description: A gentle AI companion for emotional support and finding joy in daily life
+short_description: A gentle AI companion for emotional support and finding joy
 ---
 
 # 🌸 心隅陪伴者 | Heart Corner Companion
