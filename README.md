@@ -13,6 +13,8 @@ short_description: A gentle AI companion for emotional support and finding joy
 
 # 🌸 心隅陪伴者 | Heart Corner Companion
 
+**English** | [中文](README-zh.md)
+
 *A gentle AI companion that provides emotional support and helps you discover joy in everyday moments*
 
 ## 📖 Overview
